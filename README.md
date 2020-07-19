@@ -15,3 +15,4 @@ If we are able to form distinct clusters and identify common traits, this inform
     Improve targeting of marketing campaigns
     Create more games for clusters having larger number of gamers
     Track the change in distribution of gamers across the clusters over time and adapt business strategies accordingly
+
